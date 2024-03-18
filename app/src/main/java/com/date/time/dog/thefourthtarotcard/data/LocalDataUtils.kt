@@ -6,9 +6,11 @@ import android.content.pm.PackageManager
 import android.os.Build
 import android.provider.Settings
 import android.util.Log
+import androidx.annotation.Keep
 import com.date.time.dog.thefourthtarotcard.R
 import com.date.time.dog.thefourthtarotcard.TarotApp
 import com.google.gson.Gson
+import com.google.gson.reflect.TypeToken
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.delay
@@ -297,7 +299,7 @@ class LocalDataUtils {
     }
 
     fun toTarotBeanList(): MutableList<TarotBean> {
-        val type = object : com.google.gson.reflect.TypeToken<MutableList<TarotBean>>() {}.type
+        val type = object : TypeToken<MutableList<TarotBean>>() {}.type
         return Gson().fromJson(
             getJson(TarotApp.instance, "localJson.json"),
             type
@@ -305,7 +307,7 @@ class LocalDataUtils {
     }
 
     fun toAnswerBeanList(): MutableList<TarotBean> {
-        val type = object : com.google.gson.reflect.TypeToken<MutableList<TarotBean>>() {}.type
+        val type = object : TypeToken<MutableList<TarotBean>>() {}.type
         return Gson().fromJson(
             getJson(TarotApp.instance, "localAnswerJson.json"),
             type
@@ -344,7 +346,7 @@ class LocalDataUtils {
         if (dailyDeck.isNotEmpty()) {
             return Gson().fromJson(
                 dailyDeck,
-                object : com.google.gson.reflect.TypeToken<MutableList<TarotBean>>() {}.type
+                object : TypeToken<MutableList<TarotBean>>() {}.type
             )
         }
         val allData = toTarotBeanList()
