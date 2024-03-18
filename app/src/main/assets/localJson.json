@@ -1,0 +1,90 @@
+[
+  {
+    "name": "The Fool",
+    "message": "The Fool represents new beginnings, spontaneity, and the willingness to take risks. It signifies a journey into the unknown with a carefree and optimistic attitude. This card encourages embracing opportunities without fear, trusting in the process of life, and being open to unexpected adventures."
+  },
+  {
+    "name": "The Magician",
+    "message": "The Magician is a symbol of manifestation and personal power. It signifies the ability to channel energy from the spiritual and material realms to create something new. This card encourages you to recognize your potential, take initiative, and use your skills and talents to achieve your goals. It emphasizes the importance of focus, willpower, and the alignment of thoughts and actions."
+  },
+  {
+    "name": "The High Priestess",
+    "message": "The High Priestess represents intuition, mystery, and the subconscious mind. It signifies a deep connection to inner wisdom and spiritual insights. This card encourages listening to your inner voice, trusting your instincts, and exploring the realms of the unconscious. The High Priestess suggests a time of reflection, introspection, and tapping into the hidden aspects of yourself or situations."
+  },
+  {
+    "name": "The Empress",
+    "message": "The Empress embodies nurturing, fertility, and abundance. It symbolizes the creation of life, growth, and the expression of feminine energy. This card often represents motherhood, creativity, and a harmonious connection with nature. The Empress encourages you to embrace and appreciate the beauty around you, cultivate your creative endeavors, and nurture both yourself and others."
+  },
+  {
+    "name": "The Emperor",
+    "message": "The Emperor represents authority, structure, and leadership. It symbolizes the power of order and control, emphasizing the importance of discipline and responsibility. This card encourages taking a strategic and organized approach to situations, asserting your authority when necessary, and establishing a solid foundation for future endeavors. The Emperor suggests a time to embrace leadership roles and make decisions with confidence."
+  },
+  {
+    "name": "The Hierophant",
+    "message": "The Hierophant represents tradition, spiritual guidance, and religious institutions. This card signifies a connection to higher wisdom, mentorship, and the pursuit of spiritual knowledge. It often suggests seeking guidance from established systems or figures of authority. The Hierophant encourages adherence to tradition, ethical principles, and a deeper understanding of spiritual teachings."
+  },
+  {
+    "name": "The Lovers",
+    "message": "The Lovers symbolize love, partnerships, and choices. This card represents the union of opposites and the potential for significant connections, both romantic and non-romantic. It encourages making decisions from the heart, embracing harmony, and understanding the balance between conflicting desires. The Lovers suggest a time of emotional and personal growth through meaningful relationships."
+  },
+  {
+    "name": "The Chariot",
+    "message": "The Chariot embodies determination, willpower, and triumph over obstacles. This card signifies a focused and disciplined approach to achieving goals, often through inner strength and self-control. It encourages you to harness your energy, overcome challenges, and move forward with confidence. The Chariot suggests a time of assertiveness and conquering adversity with a clear sense of purpose."
+  },
+  {
+    "name": "Strength",
+    "message": "Strength represents inner courage, resilience, and overcoming challenges through compassion. This card signifies the power of gentleness, patience, and self-control. It encourages facing difficulties with a calm and compassionate demeanor, rather than force or aggression. Strength suggests a time of inner transformation, where personal strength and integrity lead to successful outcomes and personal growth."
+  },
+  {
+    "name": "The Hermit",
+    "message": "The Hermit symbolizes introspection, solitude, and spiritual searching. This card represents a time of withdrawal from the external world to seek inner wisdom and self-discovery. It encourages introspection, meditation, and a deeper understanding of one's purpose. The Hermit suggests a period of reflection, guidance from within, and the pursuit of inner enlightenment and knowledge."
+  },
+  {
+    "name": "The Wheel of Fortune",
+    "message": "The Wheel of Fortune represents cycles, fate, and unexpected changes. This card signifies the ever-turning wheel of life, where ups and downs are inevitable. It encourages adapting to the natural flow of events, embracing change, and recognizing the transient nature of both good and challenging times. The Wheel of Fortune suggests that destiny is at play and emphasizes the importance of going with the flow."
+  },
+  {
+    "name": "Justice",
+    "message": "Justice symbolizes fairness, balance, and ethical decision-making. This card represents the pursuit of truth, accountability, and the consequences of one's actions. It encourages making decisions with impartiality, considering both sides of a situation, and seeking fair resolutions. Justice suggests a time of taking responsibility for your choices and ensuring that justice is served in your own life and the lives of others."
+  },
+  {
+    "name": "The Hanged Man",
+    "message": "The Hanged Man embodies surrender, letting go, and gaining a new perspective. This card signifies a voluntary sacrifice or a willingness to release control in order to gain deeper insights. It encourages surrendering to the natural course of events, finding peace in uncertainty, and embracing a different outlook. The Hanged Man suggests that sometimes, surrendering and allowing things to unfold can lead to profound transformation."
+  },
+  {
+    "name": "Death",
+    "message": "Death represents transformation, rebirth, and the inevitability of change. This card does not necessarily signify physical death but rather the end of a cycle or a transformational process. It encourages letting go of the old to make way for the new, embracing change, and understanding that transformation is a natural part of life. Death suggests that through endings, new opportunities and beginnings emerge."
+  },
+  {
+    "name": "Temperance",
+    "message": "Temperance symbolizes balance, harmony, and moderation. This card represents the blending of opposites and finding a middle path. It encourages a balanced approach to life, combining conflicting elements with grace and patience. Temperance suggests a time of healing, integration, and moderation in all aspects of life. It emphasizes the importance of finding equilibrium and avoiding extremes."
+  },
+  {
+    "name": "The Devil",
+    "message": "The Devil represents bondage, materialism, and temptation. This card signifies the influence of worldly desires and attachments that may hinder personal growth. It encourages self-awareness, breaking free from unhealthy habits, and regaining control over one's life. The Devil suggests a time of facing and overcoming temptations, releasing negative patterns, and reclaiming personal power and freedom."
+  },
+  {
+    "name": "The Tower",
+    "message": "The Tower symbolizes sudden upheaval, change, and revelation. This card represents the breaking down of old structures or belief systems to make way for new beginnings. It often signifies unexpected events that force transformation. The Tower encourages embracing change, even if it is initially disruptive, as it paves the way for personal growth and a fresh start."
+  },
+  {
+    "name": "The Star",
+    "message": "The Star embodies hope, inspiration, and spiritual renewal. This card represents a sense of optimism and healing after a period of challenges. It encourages looking forward with faith and embracing a higher purpose. The Star suggests that even in difficult times, there is a guiding light that leads to positive outcomes and personal fulfillment. It symbolizes renewed hope and a connection to divine guidance."
+  },
+  {
+    "name": "The Moon",
+    "message": "The Moon symbolizes intuition, dreams, and the subconscious mind. This card represents the exploration of emotions, the unknown, and the influence of the lunar cycle. It encourages paying attention to inner feelings, trusting intuition, and navigating through uncertainties with creativity. The Moon suggests a time of heightened sensitivity and the potential for deep insights through introspection and self-discovery."
+  },
+  {
+    "name": "The Sun",
+    "message": "The Sun represents joy, success, and vitality. This card signifies a period of abundance, clarity, and positivity. It encourages embracing life with enthusiasm, expressing oneself authentically, and enjoying the simple pleasures. The Sun suggests a time of personal growth, confidence, and basking in the warmth of success and fulfillment."
+  },
+  {
+    "name": "Judgment",
+    "message": "Judgment symbolizes self-reflection, accountability, and spiritual awakening. This card represents a period of introspection and evaluation, leading to a transformative realization. It encourages taking responsibility for past actions, embracing personal growth, and making positive changes. Judgment suggests a time of inner clarity, forgiveness, and a fresh start with a newfound sense of purpose."
+  },
+  {
+    "name": "The World",
+    "message": "The World represents completion, fulfillment, and achievement. This card signifies reaching a significant milestone or accomplishment in one's journey. It encourages celebrating success, recognizing personal growth, and acknowledging the interconnectedness of all things. The World suggests a time of integration, wholeness, and the realization of one's potential on a larger scale."
+  }
+]
